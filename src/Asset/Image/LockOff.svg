@@ -1,0 +1,17 @@
+<svg id="_2" data-name="2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a36868;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>LockOff</title>
+  <g id="LockOff">
+    <rect class="cls-1" x="8" y="24" width="48" height="32" rx="4" ry="4"/>
+    <path class="cls-1" d="M44,24V20a12,12,0,0,0-20.49-8.49"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a36868;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>TriangleLeft</title>
+  <g id="_1" data-name="1">
+    <g id="TriangleLeft">
+      <polygon class="cls-1" points="16 32 48 8 48 56 16 32"/>
+    </g>
+  </g>
+</svg>
